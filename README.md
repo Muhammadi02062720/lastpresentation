@@ -38,3 +38,5 @@ The export statement is used when creating JavaScript modules to export function
 So basically it is used in a JavaScript files to make objects visible to other files (modules).
 
 ![](https://www.freecodecamp.org/news/content/images/2021/02/ship-analogy.png)
+
+![](https://www.codeproject.com/KB/Articles/1207118/30.jpg)
